@@ -1,2 +1,2 @@
 # ruby
-Introduction to ruby scripts
+Introduction to ruby scripts for beginners
